@@ -2,6 +2,8 @@
 
 This sample virtual reality (VR) experiment is a [Unity](https://unity.com/) project developed by [NEUROSPEC AG](https://www.neurospec.com/). NEUROSPEC AG uses this sample experiment for their workshop on "Unifying VR Environments with State-of-the-Art EEG Research". The aim of this sample VR experiment is to give reseachers (neuroscientists and the like) a template for their VR experiments.
 
+![Sample VR-EEG Experiment](./docs/Sample-VR-EEG-Experiment.png)
+
 ## Experiment Description
 
 The experiment is made up of three simple scenes:
